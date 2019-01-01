@@ -1,1 +1,1 @@
-git add . && git commit -m "$1" && git push -f jinpeng master
+git add . && git commit -m "push" && git push -f jinpeng master
